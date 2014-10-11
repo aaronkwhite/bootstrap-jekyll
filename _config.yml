@@ -1,0 +1,35 @@
+title:              Jekyll-Bootstrap
+
+author:
+  name:             ######
+  email:            user@domain.com
+  github:           ######
+  twitter:          ######
+
+# Dependencies
+markdown:           rdiscount
+highlighter:        pygments
+
+# Permalinks
+permalink:          pretty
+
+# Server
+source:             .
+destination:        /static
+
+port:               9090
+baseurl:            ""
+#url:               /
+
+# exclude this stuff when building the static site
+exclude:            ["less",".gitignore","README.md","config.codekit"]
+
+
+## CUSTOM VARS
+
+#ga_id:             ##-########-###
+site_name:          Jekyll-Bootstrap
+site_description :  Bare Bones Jekyll-Bootstrap starting point
+site_url:           ######
+site_email:         site@domain.com
+site_phone:         (###) ###-####
