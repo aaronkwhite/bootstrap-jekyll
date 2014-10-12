@@ -11,7 +11,7 @@ This repo was created as a starting point to use Jekyll & Bootstrap to create st
 ### Dependencies
  - Jekyll
  - Bootstrap (current version 3.2.0)
- - LESS
+ - LESS Compiler
 
 ### Usage
 Clone the repo and start building your site. The core components are located in the *source* directory, so you can better oranize your content and stucture.
