@@ -15,7 +15,7 @@ Clone the repo and start building your site:
  git clone git@github.com:aaronkwhite/bootstrap-jekyll.git project-name
 ```
 
-The core components are located in the *source* directory, so you can better oranize your content and stucture.
+The core components are located in the *source* directory, so you can better organize your content and stucture.
 
 This repo is uing Bootstrap LESS & Font-Awesome LESS, located in the root directory. You'll need to setup compass or use Codekit to compile the LESS into the `source/assets/stylesheets` directory.
 
