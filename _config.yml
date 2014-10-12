@@ -14,8 +14,8 @@ highlighter:        pygments
 permalink:          pretty
 
 # Server
-source:             .
-destination:        /static
+source:             ./source
+destination:        ./static
 
 port:               9002
 baseurl:            ""
