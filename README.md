@@ -15,7 +15,11 @@ Clone the Repo:
  git clone git@github.com:aaronkwhite/bootstrap-jekyll.git project-name
 ```
 
-Build out your site. You'll need to setup compass or use Codekit to compile the LESS into the 'source/assets/stylesheets' directory. To test your site locally just run:
+Clone the repo and start building your site. The core components are located in the *source* directory, so you can better oranize your content and stucture.
+
+This repo is uing Bootstrap LESS & Font-Awesome LESS, located in the root directory. You'll need to setup compass or use Codekit to compile the LESS into the `source/assets/stylesheets` directory.
+
+To test your site locally just run:
 
 ```
 jekyll serve
@@ -28,10 +32,6 @@ jekyll serve
  - Bootstrap (current version 3.2.0)
  - LESS Compiler
 
-### Usage
-Clone the repo and start building your site. The core components are located in the *source* directory, so you can better oranize your content and stucture.
-
-This repo is uing Bootstrap LESS, located in the root directory. Currently I'm manually compiling all less files to `source/assets/...` using Codekit.
 
 ## Contributing
 If you would like to contribute to this repo, hit me up on twitter [@aaronkwhite](http://twitter.com/aaronkwhite) and then we can talk pull requests.
