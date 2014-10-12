@@ -3,13 +3,15 @@
 A Bare Bones Jekyll & Bootstrap site starting point.
 
 ### Version
-Current - 0.0.1
+Current - 1.0.0
 
 ## About
 This repo was created as a starting point to use Jekyll & Bootstrap to create static websites. More and more I need to create websites and not just blogs, so why not share this with the world.
 
 ### Dependencies
  - Jekyll
+ - Bootstrap (current version 3.2.0)
+ - LESS
 
 ### Usage
 Clone the repo and start building your site. The core components are located in the *source* directory, so you can better oranize your content and stucture.
