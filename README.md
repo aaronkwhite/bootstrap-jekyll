@@ -1,6 +1,6 @@
-# Jekyll-Bootstrap
+# Bootstrap-Jekyll
 
-A Bare Bones [Bootstrap][1] & [Jekyll][2] site starting point that doesn't assume anything.
+A Bare Bones [Bootstrap][1] & [Jekyll][2]g site starting point that doesn't assume anything.
 
 ### Version
 Current - 1.1.0
