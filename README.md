@@ -9,13 +9,13 @@ Current - 1.1.0
 This repo was created as a starting point to use Jekyll & Bootstrap to create static websites. Most Jekyll & Bootstrap scaffolds assume too much, spend less time undoing configurations geared towards building a blog and start building sites faster.
 
 ### Get Started
-Clone the Repo:
+Clone the repo and start building your site:
 
 ```
  git clone git@github.com:aaronkwhite/bootstrap-jekyll.git project-name
 ```
 
-Clone the repo and start building your site. The core components are located in the *source* directory, so you can better oranize your content and stucture.
+The core components are located in the *source* directory, so you can better oranize your content and stucture.
 
 This repo is uing Bootstrap LESS & Font-Awesome LESS, located in the root directory. You'll need to setup compass or use Codekit to compile the LESS into the `source/assets/stylesheets` directory.
 
