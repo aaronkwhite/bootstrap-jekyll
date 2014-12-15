@@ -3,7 +3,7 @@
 A Bare Bones [Bootstrap][1] & [Jekyll][2] site starting point that doesn't assume anything.
 
 ### Version
-Current - 1.2.0
+Current - 1.2.1
 
 ## About
 This repo was created as a starting point to use [Bootstrap][1] & [Jekyll][2] to create static websites. Most [Bootstrap][1] & [Jekyll][2] scaffolds assume too much, spend less time undoing configurations geared towards building a blog and start building sites faster.
