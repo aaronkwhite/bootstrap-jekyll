@@ -1,7 +1,7 @@
 title:              Jekyll-Bootstrap
 
 # Versioning
-current_version: 1.2.1
+current_version: 1.5.0
 
 author:
   name:             username
@@ -25,8 +25,7 @@ baseurl:            ""
 #url:               /
 
 # exclude this stuff when building the static site
-exclude:            ["less",".gitignore","README.md","config.codekit"]
-
+exclude:            ["scss",".gitignore","README.md","config.codekit","package.json","LICENSE",".DS_Store"]
 
 ## CUSTOM VARS
 
@@ -36,4 +35,4 @@ site_description :  Bare Bones Jekyll-Bootstrap starting point
 site_copyright:     Copyright (c) 2014 @aaronkwhite
 site_url:           http://yoururl.com
 site_email:         site@domain.com
-site_phone:         (555) 555-1234 
+site_phone:         (555) 555-1234

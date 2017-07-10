@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-jekyll",
+  "version": "1.5.0",
+  "description": "A Bare Bones Bootstrap & Jekyll site starting point that doesn't assume anything.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronkwhite/bootstrap-jekyll.git"
+  },
+  "keywords": [
+    "jekyll",
+    "bootstrap"
+  ],
+  "author": "Aaron K. White",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronkwhite/bootstrap-jekyll/issues"
+  },
+  "homepage": "https://github.com/aaronkwhite/bootstrap-jekyll#readme"
+}
