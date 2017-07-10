@@ -2,6 +2,8 @@ title:              Jekyll-Bootstrap
 
 # Versioning
 current_version: 1.5.0
+bootstrap_version: 4alpha6
+font-awesome_version: 4.7.0
 
 author:
   name:             username
@@ -10,7 +12,7 @@ author:
   twitter:          username
 
 # Dependencies
-markdown:           rdiscount
+markdown:           kramdown
 highlighter:        pygments
 
 # Permalinks
@@ -22,17 +24,29 @@ destination:        ./static
 
 port:               9002
 baseurl:            ""
-#url:               /
+url:                http://yoururl.com
 
 # exclude this stuff when building the static site
-exclude:            ["scss",".gitignore","README.md","config.codekit","package.json","LICENSE",".DS_Store"]
+exclude:          [
+                    ".DS_Store"
+                    ".gitignore",
+                    "README.md",
+                    "package.json",
+                    "LICENSE",
+                  ]
 
 ## CUSTOM VARS
 
 #ga_id:             ##-########-###
 site_name:          Jekyll-Bootstrap
 site_description :  Bare Bones Jekyll-Bootstrap starting point
-site_copyright:     Copyright (c) 2014 @aaronkwhite
+site_copyright:     Copyright (c) 2017 @aaronkwhite
 site_url:           http://yoururl.com
 site_email:         site@domain.com
 site_phone:         (555) 555-1234
+
+# Assets
+# We specify the Sass directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          ./assets/stylesheets
+  style:            :compressed
