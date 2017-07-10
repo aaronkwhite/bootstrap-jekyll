@@ -6,15 +6,14 @@
 // Author: @aaronkwhite
 //
 
-// All the Sass
 // Get all the custom variables
-@import "variables";
+@import 'variables';
 
 // Bootstrap 4 alpha 6
-@import "bootstrap/bootstrap";
+@import 'bootstrap/bootstrap';
 
 // Font-Awesome 4.7.0
-@import "font-awesome/font-awesome";
+@import 'font-awesome/font-awesome';
 
 // Import your custom theme here
-@import "theme";
+@import 'theme';

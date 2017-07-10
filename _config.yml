@@ -28,11 +28,11 @@ url:                http://yoururl.com
 
 # exclude this stuff when building the static site
 exclude:          [
-                    ".DS_Store"
+                    ".DS_Store",
                     ".gitignore",
                     "README.md",
                     "package.json",
-                    "LICENSE",
+                    "LICENSE"
                   ]
 
 ## CUSTOM VARS
