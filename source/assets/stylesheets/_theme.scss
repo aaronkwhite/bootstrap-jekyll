@@ -2,3 +2,20 @@
 // Bootstrap-Jekyll - Custom Theme
 // Author: @aaronkwhite
 //
+
+
+// Delete everything in this file or start from scratch
+
+.row {
+  margin-bottom: 1rem;
+}
+.row .row {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+[class*="col-"] {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: rgba(86,61,124,.15);
+  border: 1px solid rgba(86,61,124,.2);
+}
